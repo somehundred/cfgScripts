@@ -56,3 +56,36 @@ Head to the directory ***<gameinfo.txt location>/cfg*** and drop script there. R
 + *unbreak*
 
   Fix softlocks caused by *killall* and *golimp* scripts. Work in progress.
+
+
+### Hl2 only
+
++ *deviolence*
+
+  Remove violence from game.
+
++ *dissolve*
+
+  Dissolve whatever can be dissolved.
+
++ *everyonehateseveryone*
+
+  Makes every NPC class hate each other. I originally tried to make every individual NPC hate each other but always ran into problems so this is the best version.
+
++ *powerloss*
+
+  Simulate a powerloss, disabling/turning off any object that runs on power. Work in progress, don't except much from this.
+
+
+### black mesa
+
++ *comfyfl*
+
+  Make Black Mesa flashlight brighter and bigger.
+
+
+### hl2 chaos (For Pinsplash's chaos mod only)
+
++ *chaosmodpeak*
+
+  Create the biggest chaos around you, turning bullets in grenades, repelling every objects away from you and making everything run out of glue.
