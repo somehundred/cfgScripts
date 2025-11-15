@@ -53,10 +53,6 @@ Head to the directory ***<gameinfo.txt location>/cfg*** and drop script there. R
 
   Make every breakable physics prop explode if broken.
 
-+ *unbreak*
-
-  Fix softlocks caused by *killall* and *golimp* scripts. Work in progress.
-
 
 ### Hl2 only
 
