@@ -10,6 +10,7 @@ Head to the directory ***<gameinfo.txt location>/cfg*** and drop script there. R
 + Portal: **portal**
 + Portal 2: **portal2**
 + Black Mesa: **bms**
++ Left 4 Dead 2: **left4dead2**
 
 # Script purposes
 
@@ -27,11 +28,11 @@ Head to the directory ***<gameinfo.txt location>/cfg*** and drop script there. R
 
 + *golimp*
 
-  Makes every NPC collapse on the spot. Lighter version of *killall*. Optional dependency: *unbreak*
+  Makes every NPC collapse on the spot. Lighter version of *killall*.
 
 + *killall*
 
-  Kills every NPC and prevents game from reloading in case essential NPCs die. Optional dependency: *unbreak*
+  Kills every NPC and prevents game from reloading in case essential NPCs die.
 
 + *propsexplode*
 
